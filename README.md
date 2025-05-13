@@ -4,14 +4,14 @@ Liver Cirrhosis Prediction – Analysis Stage
 In this project, I analyzed the Mayo Clinic liver cirrhosis dataset to predict patient outcomes (Alive, Transplanted, or Dead).
 The analysis stage involved:
 
-Data cleaning and preprocessing
+1.Data cleaning and preprocessing
 
-Exploratory Data Analysis (EDA)
+2.Exploratory Data Analysis (EDA)
 
-Feature encoding and scaling
+3.Feature encoding and scaling
 
-Training multiple classification models (Logistic Regression, Random Forest, XGBoost, SVM)
+4.Training multiple classification models (Logistic Regression, Random Forest, XGBoost, SVM)
 
-Performance evaluation using classification metrics and confusion matrix
+5.Performance evaluation using classification metrics and confusion matrix
 
-Feature importance visualization
+6.Feature importance visualization
